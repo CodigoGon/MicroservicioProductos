@@ -26,4 +26,4 @@ asi se mantiene el microservicio estable y escalable, sin olvidar que tambien ll
 
 ## Servicio Ventas
 
-<p id="ventas">En este </p>
+<p id="ventas">En este Microservicio creamos las ventas finales de dicho comercio donde hara consultas al carrito de compras y a su vez la misma a productos, para tener dichos datos, la misma esta con sistema CRUD junto con tecnologias como OpeFeign para una facil comunicacion, tambien tenemos Server Discovery, CircuitBreaker y Loadbalancer.</p>
